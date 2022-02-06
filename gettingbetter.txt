@@ -1,0 +1,7 @@
+as of now i am confident that i can
+create a new file from the command line
+I can open said file from the command line and edit
+save the file and close it
+add a file to the staging area
+and finally commit the file to git.
+as of now, im content with this lesson of TOP!

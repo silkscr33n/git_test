@@ -1,0 +1,3 @@
+my first time working with Git
+Im a little flustered but appearently theres no other way
+today I will add this file to Git

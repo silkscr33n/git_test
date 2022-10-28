@@ -1,0 +1,10 @@
+Hello world,
+
+I'm learning how to write in a text editor within terminal on my mac.
+
+Nothing special here except this is near the fifth time I've done so, and 
+have yet to dissapoint myself.
+
+edison style, ive succeeded in the exact amount of times i have failed.
+
+lets see if I can add to git
